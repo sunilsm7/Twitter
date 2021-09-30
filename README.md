@@ -1,7 +1,8 @@
 # Twitter
 Some of the best twitter threads regarding Python, Web Development, Machine Learning and Deep Learning
 
-
+**Python**
+- [Conditional Expressions.](https://twitter.com/mathsppblog/status/1442802770671804416)
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
 - [Stats and Probability](https://gumroad.com/l/KHxct)
