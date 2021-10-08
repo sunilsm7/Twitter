@@ -12,3 +12,6 @@ Some of the best twitter threads regarding Python, Web Development, Machine Lear
 
 **Other**
 - [25 Github Repositories Every Developer Should Follow](https://twitter.com/sunilc_/status/1441319707655639043)
+
+**Courses**
+- [Free machine learning courses](https://twitter.com/Jeande_d/status/1446043947449524228)
