@@ -4,6 +4,12 @@ Some of the best twitter threads regarding Python, Web Development, Machine Lear
 **Python**
 - [Conditional Expressions.](https://twitter.com/mathsppblog/status/1442802770671804416)
 
+**Data Structures and Algorithms (DSA)**
+- [DSA - Frequently Asked Interview Questions](https://twitter.com/swapnakpanda/status/1452566931014242313)
+
+**Deep Learning**
+- [Popular deep learning architectures](https://twitter.com/Jeande_d/status/1436666068559437827)
+
 **Notes**
 - [Andrew NG Machine Learning](https://twitter.com/capeandcode/status/1375315443200581635)
 - [Stats and Probability](https://gumroad.com/l/KHxct)
