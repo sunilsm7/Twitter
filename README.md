@@ -21,3 +21,8 @@ Some of the best twitter threads regarding Python, Web Development, Machine Lear
 
 **Courses**
 - [Free machine learning courses](https://twitter.com/Jeande_d/status/1446043947449524228)
+
+**Interviews**
+- [Preparing for a developer job interview?](https://twitter.com/sunilc_/status/1453350418482966542)
+- [75  Numeric Problems](https://twitter.com/swapnakpanda/status/1450344848234450944)
+- 
